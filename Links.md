@@ -1,6 +1,9 @@
 ## 🔗 Direct Download Links
  Click on any link below to start downloading directly.
 
+### 📅 2026-05-13 01:10 (IR Time)
+- 🗜️ [sedr vpn help.zip](https://github.com/meskiniamir0-boop/sandbox/raw/main/dl/sedr%20vpn%20help.zip) `31.00 MB`
+
 ### 📅 2026-05-10 19:24 (IR Time)
 - 📥 [Video_9208.mp4](https://github.com/meskiniamir0-boop/sandbox/raw/main/dl/Video_9208.mp4) `3.02 MB`
 
