@@ -1,6 +1,9 @@
 ## 🔗 Direct Download Links
  Click on any link below to start downloading directly.
 
+### 📅 2026-05-14 15:51 (IR Time)
+- 📱 [ShirOKhorshid-2026.05.14.apk](https://github.com/meskiniamir0-boop/sandbox/raw/main/dl/ShirOKhorshid-2026.05.14.apk) `23.93 MB`
+
 ### 📅 2026-05-13 01:27 (IR Time)
 - 📱 [mhrv-rs-android-universal-v1.9.18.apk](https://github.com/meskiniamir0-boop/sandbox/raw/main/dl/mhrv-rs-android-universal-v1.9.18.apk) `41.11 MB`
 
